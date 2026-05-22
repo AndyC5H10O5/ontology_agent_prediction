@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.cursor/
+logs/*
+treatment_plan/*
+harness/session/*
+harness/chroma_db/*
+harness/knowledge_base/*
+harness/skills/*
+harness/memory/*
